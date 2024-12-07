@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirHamzah123
-- 👀 I’m interested in cloud computing      
+- 👀 I’m interested in Software Engineering/Cloud computing      
 - 🌱 I’m currently learning degree in Software engineering
 - 📫 Reach me from here. :)
 - 😄 Pronouns: Amir
