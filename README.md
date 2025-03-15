@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AmirHamzah123
 - 👀 I’m interested in Software Engineering/Cloud computing      
-- 🌱 I’m currently learning degree in Software engineering
-- 📫 Reach me from here. :)
+- 🌱 I’m currently pursuing degree in Software engineering
 - 😄 Pronouns: Amir
 - ⚡ Fun fact: Diploma in Computer engineering
 
