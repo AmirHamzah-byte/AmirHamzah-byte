@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering/Cloud computing      
 - 🌱 I’m currently pursuing degree in Software engineering
 - 😄 Pronouns: Amir
-- ⚡ Fun fact: Diploma in Computer engineering
+- ⚡ Fun fact: Graduated Diploma in Computer Engineering
 
 <!---
 AmirHamzah123/AmirHamzah123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
