@@ -9,7 +9,11 @@ AmirHamzah123/AmirHamzah123 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-System Verification Technician at Dyson<br>I am currently part time study for Software Engineering at UTM
+👋 Hi, I’m @AmirHamzah123
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently pursuing part time degree in Software engineering
+- 😄 Pronouns: Amir
+- ⚡ Fun fact: Diploma in Computer Engineering
 
 
 ## 🌐 Socials:
