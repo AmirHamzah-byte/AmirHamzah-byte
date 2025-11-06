@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 👋 Hi, I’m Amir Hamzah
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently pursuing part time degree in Software engineering
+- 🌱 I’m currently pursuing part time degree in Software engineering at University Technology Malaysia(UTM)
 - 😄 Pronouns: Amir
 - ⚡ Fun fact: Diploma in Computer Engineering
 
